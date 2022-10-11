@@ -11,6 +11,8 @@ pip install -r requirements.txt
 
 ## Usage
 change https://www.skillshare.com/en/classes/ to https://www.skillshare.com/classes/
+
 ```
+cd Skillshare-DL
 python3 dl.py https://www.skillshare.com/classes/
 ```
