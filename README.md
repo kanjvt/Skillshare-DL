@@ -6,6 +6,7 @@ this repo forked from https://github.com/calvinhobbes23/Skillshare-DL
 ## Install
 ```
 git clone https://github.com/kanjvt/Skillshare-DL.git
+cd Skillshare-DL
 pip install -r requirements.txt
 ```
 
@@ -13,6 +14,5 @@ pip install -r requirements.txt
 change https://www.skillshare.com/en/classes/ to https://www.skillshare.com/classes/
 
 ```
-cd Skillshare-DL
 python3 dl.py https://www.skillshare.com/classes/
 ```
