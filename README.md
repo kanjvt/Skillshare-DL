@@ -1,4 +1,4 @@
-## Skillshare-DL forked from 
+## Skillshare-DL
 this repo forked from https://github.com/calvinhobbes23/Skillshare-DL
 
 ## Install
