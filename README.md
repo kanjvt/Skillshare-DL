@@ -1,6 +1,8 @@
 ## Skillshare-DL
 this repo forked from https://github.com/calvinhobbes23/Skillshare-DL
 
+![Skillshare downloader 2022](https://telegra.ph/file/13be2f9f0aac6375e7589.png)
+
 ## Install
 ```
 git clone https://github.com/kanjvt/Skillshare-DL.git
