@@ -2,7 +2,7 @@
 this repo forked from https://github.com/calvinhobbes23/Skillshare-DL
 
 ![Skillshare downloader 2022](https://telegra.ph/file/311eda4568192f0eb5377.png)
-## Pre-requisites
+## Requisite
 `python3.9` or higher
 
 ## Install
