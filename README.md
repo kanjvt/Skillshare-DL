@@ -7,7 +7,7 @@ this repo forked from https://github.com/calvinhobbes23/Skillshare-DL
 
 ## Install
 ```
-git clone https://github.com/kanjvt/Skillshare-DL.git
+git clone https://github.com/scripthon/Skillshare-DL.git
 cd Skillshare-DL
 pip install -r requirements.txt
 ```
