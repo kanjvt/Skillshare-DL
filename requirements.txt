@@ -1,4 +1,4 @@
 python-slugify
 requests
 cloudscraper
-pycryptodome
+pyarmor
